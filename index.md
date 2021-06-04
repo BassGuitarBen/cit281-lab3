@@ -9,5 +9,5 @@ In this lab we learned/did:
 
 -working with editing objects and arrays with different methods
 
-Lab files available at [Lab 3 module](https://bassguitarben.github.io/cit281-lab1/lab-3module.js)
-and [Lab 3 js](https://bassguitarben.github.io/cit281-lab1/lab-3.js)
+Lab files available at [Lab 3 module](https://bassguitarben.github.io/cit281-lab3/lab-3module.js)
+and [Lab 3 js](https://bassguitarben.github.io/cit281-lab3/lab-3.js)
